@@ -1,39 +1,46 @@
-# Full-Project
-Repository untuk menyimpan berbagai Project
+# Frontend Projects
+A collection of frontend projects built to practice and improve web development skills using various technologies.
 
-1. [Demo](https://gusalitt.github.io/Full-Project/company-profile-perusahaan-property/company_profile.html)                                                            
-   Web Company Profile Perusahaan Property ini dibuat menggunakan :
+## Projects
+
+### Company Profile Website
+- **Demo:** https://gusalitt.github.io/frontend-projects/company-profile-perusahaan-property/
+- **Tech Stack:**
+  - HTML
+  - CSS
+  - Bootstrap
+
+### Doctor’s Consultation v1 Website
+- **Demo:** https://gusalitt.github.io/frontend-projects/konsultasi-dokter-v1/
+- **Tech Stack:**
    - HTML
    - CSS
-   - Bootstrap
+   - JavaScript
 
-2. [Demo](https://gusalitt.github.io/Full-Project/travel/public/Travel.html)                                                                                                  
-   Web Travel ini dibuat menggunakan :
+### Doctor’s Consultation v2 Website
+- **Demo:** https://gusalitt.github.io/frontend-projects/konsultasi-dokter-v2/
+- **Tech Stack:**
    - HTML
-   - TailwindCSS
+   - CSS
+   - JavaScript
 
-3. [Demo](https://gusalitt.github.io/Full-Project/laundry-1/index.html)                                                                                                  
-   Web Laundry 1 ini dibuat menggunakan :
+### Laundry v1 Website
+- **Demo:** https://gusalitt.github.io/frontend-projects/laundry-v1/
+- **Tech Stack:**
    - HTML
    - CSS
 
-4. [Demo](https://gusalitt.github.io/Full-Project/laundry-2/index.html)                                                                                                 
-   Web Laundry 2 ini dibuat menggunakan :
+### Laundry v2 Website
+- **Demo:** https://gusalitt.github.io/frontend-projects/laundry-v2/
+- **Tech Stack:**
    - HTML
    - CSS
    - JavaScript
    - Smooth Scroll Master (Library)
    - Typed JS (Library)
 
-5. [Demo](https://gusalitt.github.io/Full-Project/konsultasi-dokter-1/index.html)                                                                                                 
-   Web Konsultasi Dokter 1 ini dibuat menggunakan :
+### Travel Website
+- **Demo:** https://gusalitt.github.io/frontend-projects/travel/public/
+- **Tech Stack:**
    - HTML
-   - CSS
-   - JavaScript
-
-6. [Demo](https://gusalitt.github.io/Full-Project/konsultasi-dokter-2/index.html)                                                                                                 
-   Web Konsultasi Dokter 2 ini dibuat menggunakan :
-   - HTML
-   - CSS
-   - JavaScript
-   
+   - TailwindCSS
